@@ -1,0 +1,32 @@
+{
+    "license": "Copyright (C) Skillworks IT - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Jan 2023",
+    "mongoDBConnection": "mongodb://localhost:27017/infpp_cust_users",
+
+    "fromMail": "noreply@indifly365.com",
+    "fromMailPswd": "abkmsyisacbldoum",
+    "mailServerHost": "smtp.gmail.com",
+    "mailServerPort": 587,
+    "paymentsMail": "accounts@indifly365.com",
+    "jwtSecretKey": "INF365!&J*$D@^N-SACust|Prod",
+    "criptoEncryptKey": "A22!&J*$D@^N|INFY#Flgt#AK17|Prod",
+    "dbCriptoEncrypt": "A22!&J*$D@^N|INFDB#Flgt#K17|Prod",
+
+    "indflySprtMail": "support@indifly365.com",
+
+    "itsApiDomain": "https://api-services.glueup.com/v2/",
+    "itsVersion": "1.0",
+    "itsPublicKey": "itserve",
+    "itsPrivateKey": "MF0CAQACEACiQCh51SdMDYfVe9dEpo0CAwEAAQIPXtHX1bt4B69LXaHDQR6BAggNJNCHnwozuQIIDFghqUWam3UCCAEotOawpIKpAggEblpe7cpKxQIIDCLtWw7XNsI=",
+
+    "getipLocation":"https://nordvpn.com/wp-admin/admin-ajax.php?action=get_user_info_data&ip=",
+
+    "gPer": 0.85,
+    "rPer": 0.7,
+    "aPer": 0.3,
+    "sPer": 0.6,
+    "iPer": 0.5,
+
+    "apiDomain": "http://192.168.68.156:3115/",
+    "uiDomain": "http://192.168.68.156:4817/#/",
+    "ailPathDomain": "https://indifly365.com"
+}
